@@ -13,4 +13,4 @@
 #
 ---
 include:
-  - board: rk87
+  - board: nice_nano
