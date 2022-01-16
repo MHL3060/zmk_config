@@ -13,4 +13,4 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: nice60
